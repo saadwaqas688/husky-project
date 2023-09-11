@@ -43,5 +43,4 @@
       "pre-commit": "echo 'got it, Husky is running'"
     }
   }
-  
 }
