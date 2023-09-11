@@ -41,7 +41,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "bash .hooks/pre-commit"
+      "pre-commit": "bash .hooks/commit-msg && bash .hooks/pre-commit"
     }
   }
   
