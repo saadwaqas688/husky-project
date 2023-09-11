@@ -41,7 +41,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "echo 'got it, Husky is running'"
+      "pre-commit": "bash .hooks/pre-commit"
     }
   }
+  
 }
